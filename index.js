@@ -71,6 +71,7 @@ class CountDisplay {
   }
 }
 
+// This is me messing with the new code, testing it does the correct thing
 (() => {
   const counter = new Counter();
 
